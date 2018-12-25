@@ -6,6 +6,7 @@ iaiaiaiaiai:ew
 444444
 
 :wq
+ooooooooo
 :IIIIe
 aber
 esaber
