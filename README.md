@@ -1,4 +1,10 @@
-IIIIIIe
+I
+
+
+
+
+:wq
+:IIIIe
 aber
 esaber
 esaber
